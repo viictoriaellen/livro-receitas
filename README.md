@@ -4,3 +4,4 @@
 
 #### - Strogonoff de frango
 #### - Pavê
+#### - Purê de abóbora
