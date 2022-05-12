@@ -5,3 +5,5 @@
 #### - Strogonoff de frango
 #### - Pavê
 #### - Purê de batata
+#### - Purê de abóbora
+
